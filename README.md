@@ -2,7 +2,7 @@
 
 ## Description
 
-Aplicación CRUD para el manejo de imágenes.
+Conversion de imágens, colas y listener de eventos.
 
 ## Installation
 
@@ -30,30 +30,19 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Desarrollo
 
-1. Lista de imagenes - inicial
+1. Subida de imagen
 
-![image](https://github.com/user-attachments/assets/1391d62f-11c4-499e-8b11-1e426a827543)
+![image](https://github.com/user-attachments/assets/9840d143-4cc1-42d1-a455-53b75dd0ab8f)
 
-2. Formulario para subir imagen
+Listener de notificación
 
-![image](https://github.com/user-attachments/assets/fdabe948-45ce-441e-999c-58a32f50805e)
+![image](https://github.com/user-attachments/assets/2c8d53ac-0b08-400e-a947-e1959e06912e)
 
-![image](https://github.com/user-attachments/assets/35f98e4c-19cd-43d4-9a99-b81ee7804a62)
+2. Conversión de imagen de JPG a Webp (Se verifica en el bucket subido)
 
-3. Ver imagen
+![image](https://github.com/user-attachments/assets/186ae54a-f2b1-4d23-94fb-f2b641469906)
 
-![image](https://github.com/user-attachments/assets/a3271734-452a-4cd1-adb2-a1eaadbb3b44)
+3. Comprobación de listener de Actividades en la Base de datos
 
-4. Editar una imagen
-
-![image](https://github.com/user-attachments/assets/8b58f373-e92e-4a74-9d7e-1e95beb2ab91)
-![image](https://github.com/user-attachments/assets/2e5af9e2-f322-4e35-a6b4-200850b4b047)
-
-![image](https://github.com/user-attachments/assets/7847308d-a06c-4b43-9596-ae12a65e0c96)
-
-5. Eliminar imagen
-
-![image](https://github.com/user-attachments/assets/4ca9fed7-a061-45f8-99f3-14e32b60ca06)
-
-![image](https://github.com/user-attachments/assets/e4081878-f934-4db2-9df6-9238399dfa70)
+![image](https://github.com/user-attachments/assets/12ef3a59-8b3c-40e8-ba70-cc320ee3f82d)
 
